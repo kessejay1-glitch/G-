@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80">
+<style>
+.text { font: bold 56px Arial, sans-serif; fill: #202124; }
+.dash { stroke:#1a73e8; stroke-width:8; stroke-linecap:round; }
+</style>
+
+<text x="10" y="58" class="text">G</text>
+
+<line x1="85" y1="45" x2="140" y2="45" class="dash"/>
+
+</svg>
